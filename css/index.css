@@ -144,3 +144,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*My code starts here*/
+
+.top-img {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    text-align: center;
+    margin: 20px auto 10px auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
